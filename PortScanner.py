@@ -11,6 +11,7 @@ if len(sys.argv) == 2:
 else:
     print("Invalid amount of arguments.")
     print("Syntax: Python3 Scanner.py <ip>")
+    sys.exit(0)
 #Add a pretty banner
 print("-" * 50)
 print("Scanning target" + target)
