@@ -1,5 +1,9 @@
 # basic-portscanner
 
+```
+python3 -m pip install colorama
+```
+
 ## What It Does:
 
 This is a basic port scanner made in Python 3.7 this port scanner is very simple, straight forward, and above all *basic.* This is nothing fancy or special, it will just list what ports are open on a hostname/IP. It will list all ports that are open between ports 50 and 85. Please feel free to edit that part of the script to your needs. If the port is open, it will print the port number. 
