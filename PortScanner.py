@@ -50,9 +50,9 @@ except KeyboardInterrupt:
     print("\nExiting Program")
     sys.exit()
 except socket.gaierror:
-    print("Hostname couldnot be resoloved.")
+    print("Hostname could not be resolved.")
     sys.exit()
 
 except socket.error:
-    print("Coudld not connect to server!")
+    print("Could not connect to server!")
     sys.exit()
