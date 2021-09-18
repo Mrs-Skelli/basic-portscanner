@@ -1,4 +1,4 @@
-# basic-portscanner
+# An amazing Port Scanner made in Python
 
 ## What It Does:
 
